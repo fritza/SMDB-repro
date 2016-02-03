@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.1.5)
+  - mongo-c-driver (0.8.1)
+  - SwiftMongoDB (0.1.1):
+    - mongo-c-driver (~> 0.8.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - SwiftMongoDB
+
+SPEC CHECKSUMS:
+  Alamofire: 5f730ba29fd113b7ddd71c1e65d0c630acf5d7b0
+  mongo-c-driver: 56558b8009f8d27549b23b62ce64fe33b9818703
+  SwiftMongoDB: 1c7f3b0f6fcc15e799aeb8b269b38dd91971dbf2
+
+COCOAPODS: 0.39.0
